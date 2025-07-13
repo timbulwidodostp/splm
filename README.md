@@ -1,6 +1,8 @@
 # splm
 Fit spatial linear models Use splm (spmodel) With (In) R Software
 
+splm (spmodel) With (In) R Software
+
 Olah Data Semarang
 
 WA : +6285227746673 (085227746673)
