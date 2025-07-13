@@ -1,7 +1,7 @@
 # splm
 Fit spatial linear models Use splm (spmodel) With (In) R Software
 
-splm (spmodel) With (In) R Software
+https://www.youtube.com/watch?v=wfzlS5qjWGw
 
 Olah Data Semarang
 
